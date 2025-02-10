@@ -1,0 +1,22 @@
+p{
+    color: hotpink;
+    font-family: Comic Sans MS  ;
+}
+h1{
+    color: hotpink;
+    font-family: Comic Sans MS;
+}
+ul{
+    color: hotpink;
+    font-family: Comic Sans MS;
+}
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+img {
+    border-radius: 70%  ;
+    border-color: hotpink;
+    border : 5px solid hotpink;
+}
